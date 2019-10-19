@@ -14,7 +14,7 @@ console.dir(ctx)
 
 let system = {
 	currentTool: null,
-	currentColor: '#000',
+	currentColor: '#000', 
 	brushSize: 5
 }
 
