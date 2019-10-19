@@ -1,0 +1,35 @@
+
+body {
+	padding-left: 8%;
+}
+
+#canv {
+	width: 1000px;
+	height: 800px;
+	border: 1px solid black;
+}
+
+.tools {
+	border: 1px solid black;
+	padding: 20px;
+	width: 1000px;
+	box-sizing: border-box;
+}
+
+.coordinates {
+	display: inline-block;
+}
+
+button {
+	display: inline-block;
+	padding: 10px;
+	margin-left: 20px;
+}
+
+button:hover {
+	background-color: #aaa;
+}
+
+button:active {
+	background-color: #777;
+}
